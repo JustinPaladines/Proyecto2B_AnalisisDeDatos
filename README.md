@@ -12,13 +12,13 @@ El procesamiento de los datos se realizó mediante la herramienta **KNIME**, mie
 que los resultados obtenidos se desplegaron en un entorno web accesible a través de
 **GitHub Pages**.
 
----
+
 
 ## Objetivo general
 Analizar datos provenientes de distintas fuentes para obtener información relevante
 mediante técnicas de limpieza, consolidación, análisis estadístico y visualización.
 
----
+
 
 ## Objetivos específicos
 - Cargar datos desde diferentes fuentes (CSV, JSON, XML, bases de datos relacionales y NoSQL).
@@ -28,7 +28,7 @@ mediante técnicas de limpieza, consolidación, análisis estadístico y visuali
 - Visualizar los resultados mediante gráficos.
 - Desplegar los resultados en un servidor web.
 
----
+
 
 ## Fuentes de datos
 Los datos utilizados en el proyecto provienen de distintas fuentes, entre ellas:
