@@ -3,6 +3,13 @@
 
 - Josselyn Reyes
 
+
+## Despliegue 
+https://justinpaladines.github.io/proyecto-analisis-datos-knime/
+
+## Video
+
+
 ## Descripción del proyecto
 Este proyecto tiene como objetivo realizar un análisis de datos utilizando
 múltiples fuentes de información y aplicando todas las etapas del proceso de análisis
